@@ -1,12 +1,12 @@
-# **Invitation Template 01**
+# **Product Template**
 
-An email template that is build to send out invitations to clients and customers.
+An email template that is build to showcase/promote products.
 
 ###### - Demo link - available soon
 
 ###### - Mobile Responsive 
 
-### Test on 24/5/2018
+### Test on 26/5/2018
 ##### Desktop clients:
 -- Apple Mail 10,11
 -- outlook 2007, 2013, 2016

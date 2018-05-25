@@ -2,7 +2,7 @@
 
 An email template that is build to send important and time sensitive notifications.
 
-###### - Demo link - avaliable soon
+###### - Demo link - available soon
 
 ###### - Mobile Responsive 
 

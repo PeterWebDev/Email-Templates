@@ -2,7 +2,7 @@
 
 An email template that is build to maintain regular communications with clients and customers.
 
-###### - Demo link - avaliable soon
+###### - Demo link - available soon
 
 ###### - Mobile Responsive 
 
