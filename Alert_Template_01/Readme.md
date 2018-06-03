@@ -2,7 +2,7 @@
 
 An email template that is build to send important and time sensitive notifications.
 
-###### - Demo link - available soon
+###### - Demo link - [Alert Template 01](https://github.com/PeterWebDev/Email-Templates/tree/master/Alert_Template_01)
 
 ###### - Mobile Responsive 
 

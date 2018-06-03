@@ -1,8 +1,8 @@
-# **Product Template**
+# **Product Template 01**
 
 An email template that is build to showcase/promote products.
 
-###### - Demo link - available soon
+###### - Demo link - [Product Template 01](https://github.com/PeterWebDev/Email-Templates/tree/master/Product_Template_01)
 
 ###### - Mobile Responsive 
 
