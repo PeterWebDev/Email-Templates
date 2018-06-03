@@ -2,7 +2,7 @@
 
 An email template that is build to showcase/promote products.
 
-###### - Demo link - [Product Template 01](https://github.com/PeterWebDev/Email-Templates/tree/master/Product_Template_01)
+###### - Demo link - [Product Template 01](https://demo.peterwebdev.com/product_Template_01/)
 
 ###### - Mobile Responsive 
 

@@ -2,7 +2,7 @@
 
 An email template that is build to send out invitations to clients and customers.
 
-###### - Demo link - [Invitation Template 01](https://github.com/PeterWebDev/Email-Templates/tree/master/Invitation_Template_01)
+###### - Demo link - [Invitation Template 01](https://demo.peterwebdev.com/Invitation_Template_01/)
 
 ###### - Mobile Responsive 
 

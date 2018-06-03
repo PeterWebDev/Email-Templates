@@ -2,7 +2,7 @@
 
 An email template that is build to maintain regular communications with clients and customers.
 
-###### - Demo link - [Newsletter Template 01](https://github.com/PeterWebDev/Email-Templates/tree/master/Newsletter_Template_01)
+###### - Demo link - [Newsletter Template 01](https://demo.peterwebdev.com/Newsletter_Template_01/)
 
 ###### - Mobile Responsive 
 
